@@ -25,4 +25,7 @@ Thumbs.db
 *.bak
 *.tmp
 *.log
+*.ini
 causis_api-0.3.1
+*.ipynb
+codes/data_download

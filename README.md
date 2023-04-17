@@ -1,1 +1,2 @@
 # quant_strategy_XGBoost
+I attempted to replicate a CTA quant strategy originally presented in a quantitative report by Zhongzhou Futures, using XGBoost as my primary tool. The main folder contains my report detailing the replication process.
